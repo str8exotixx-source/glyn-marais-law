@@ -28,3 +28,5 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+Keep the firm's verified attorney profiles and practice-area content in `src/lib/firm-data.ts` so the homepage and its checks share the same factual source.
